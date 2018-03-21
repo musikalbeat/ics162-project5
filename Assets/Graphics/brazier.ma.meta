@@ -1,49 +1,31 @@
 fileFormatVersion: 2
-guid: 83769e8e4a2a30c49b5d3f07bcb275be
-timeCreated: 1521263997
+guid: 5f2a71fa59704fe4e8a4d96d53d3f4b1
+timeCreated: 1521599841
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: base
-    100002: //RootNode
-    100004: bridge
-    100006: pillar
-    100008: rail1
-    100010: rail2
-    100012: support1
-    100014: support2
-    100016: transform1
-    100018: transform2
-    100020: transform3
-    100022: transform4
-    100024: transform5
-    100026: transform6
-    400000: base
-    400002: //RootNode
-    400004: bridge
-    400006: pillar
-    400008: rail1
-    400010: rail2
-    400012: support1
-    400014: support2
-    400016: transform1
-    400018: transform2
-    400020: transform3
-    400022: transform4
-    400024: transform5
-    400026: transform6
-    2300000: bridge
-    3300000: bridge
-    4300000: bridge
-    6400000: bridge
+    100000: //RootNode
+    100002: pCylinder1
+    100004: pSphere1
+    400000: //RootNode
+    400002: pCylinder1
+    400004: pSphere1
+    2300000: pCylinder1
+    2300002: pSphere1
+    3300000: pCylinder1
+    3300002: pSphere1
+    4300000: pCylinder1
+    4300002: pSphere1
+    6400000: pCylinder1
+    6400002: pSphere1
     9500000: //RootNode
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: lambert1
-    second: {fileID: 2100000, guid: c26671bdd5c7feb4dbd8bf0afcd89f79, type: 2}
+    second: {fileID: 2100000, guid: 808647de7de3c0f4c84ffe7ebbef56e5, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

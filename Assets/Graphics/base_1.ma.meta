@@ -1,42 +1,16 @@
 fileFormatVersion: 2
-guid: 83769e8e4a2a30c49b5d3f07bcb275be
-timeCreated: 1521263997
+guid: 24ccf8c14f3eb9a47815e73d4a93cb3c
+timeCreated: 1521599839
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: base
-    100002: //RootNode
-    100004: bridge
-    100006: pillar
-    100008: rail1
-    100010: rail2
-    100012: support1
-    100014: support2
-    100016: transform1
-    100018: transform2
-    100020: transform3
-    100022: transform4
-    100024: transform5
-    100026: transform6
-    400000: base
-    400002: //RootNode
-    400004: bridge
-    400006: pillar
-    400008: rail1
-    400010: rail2
-    400012: support1
-    400014: support2
-    400016: transform1
-    400018: transform2
-    400020: transform3
-    400022: transform4
-    400024: transform5
-    400026: transform6
-    2300000: bridge
-    3300000: bridge
-    4300000: bridge
-    6400000: bridge
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: base_1
+    6400000: //RootNode
     9500000: //RootNode
   externalObjects:
   - first:
